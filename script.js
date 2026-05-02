@@ -16,7 +16,7 @@ const progressBar = document.getElementById("progress");
 
 const quizQuestions = [
   {
-    question: "What is the capital of France?",
+    question: "Qual é a capital da frança!?",
     answers: [
       { text: "London", correct: false },
       { text: "Berlin", correct: false },
@@ -25,7 +25,7 @@ const quizQuestions = [
     ],
   },
   {
-    question: "Which planet is known as the Red Planet?",
+    question: "Qual planeta, é o da cor vermelha?",
     answers: [
       { text: "Venus", correct: false },
       { text: "Marte", correct: true },
@@ -34,16 +34,16 @@ const quizQuestions = [
     ],
   },
   {
-    question: "What is the largest ocean on Earth?",
+    question: "Qual é o maior oceano do planeta Terra?",
     answers: [
       { text: "Oceano Atlantico", correct: false },
       { text: "Indian Ocean", correct: false },
-      { text: "Arctic Ocean", correct: false },
-      { text: "Pacific Ocean", correct: true },
+      { text: "Oceano artico", correct: false },
+      { text: "Oceano Pacifico", correct: true },
     ],
   },
   {
-    question: "Which of these is NOT a programming language?",
+    question: "Qual dessas linguagens, não são linguagens de programação?",
     answers: [
       { text: "Java", correct: false },
       { text: "Python", correct: false },
@@ -52,7 +52,7 @@ const quizQuestions = [
     ],
   },
   {
-    question: "What is the chemical symbol for gold?",
+    question: "Qual o nome do elemento químico que é equivalente ao ouro!",
     answers: [
       { text: "Go", correct: false },
       { text: "Gd", correct: false },
